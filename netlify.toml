@@ -5,3 +5,8 @@
   from = "/"
   to = "/KNIME-paid-media-plan.html"
   status = 302
+
+[[redirects]]
+  from = "/assessment"
+  to = "/knime-campaign-assessment.html"
+  status = 302
